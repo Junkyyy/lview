@@ -21,9 +21,13 @@ You need Visual Studio 2019 to compile this.
   
   
   4. Open Visual Studio (Release x86) right click on the Project -> Properties.
+  
   Search for VC++ Directories
+  
   INCLUDE Path: C:\LView\boost\ (your boost folder)
+  
   LIBRARY Path: C:\LView\boost\stage\lib\ (your boost\stage\lib folder)
+  
   Save and Build
   7. Copy Release/ConsoleApplication.exe to LView/ConsoleApplication.exe
   8. Into the LView Folder you'll find config.ini file open with editor and edit:  `::scriptsFolder=\<folder\>`
