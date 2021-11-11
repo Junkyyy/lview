@@ -1,7 +1,6 @@
-# LView
-# League of Legends Script
+# LView League of Legends Script
 
-# What is this
+What is this
 LView is a python based scripting platform for League of Legends. The engine is external that means it is not injected into leagues process. The engine is running in a separate process and reads the games state using ReadProcessMemory.
 
 # Building
