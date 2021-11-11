@@ -14,10 +14,16 @@ You need Visual Studio 2019 to compile this.
       3. Unarchive it in LView/boost
   !IMPORTANT! 
   Open up VS Command Prompt with Admin permission.
+  
   Type: cd C:\Lview\Boost (change it to your path / boost folder) bootstrap 
+  
   wait few seconds and type: 
+  
   .\b2
+  
   Wait for it to fully install.
+  
+  
   
   
   4. Open Visual Studio (Release x86) right click on the Project -> Properties.
