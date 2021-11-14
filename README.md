@@ -37,7 +37,8 @@ You need Visual Studio 2019 to compile this.
   Save and Build
   7. Copy Release/ConsoleApplication.exe to LView/ConsoleApplication.exe
   8. Into the LView Folder you'll find config.ini file open with editor and edit:  `::scriptsFolder=\<folder\>`
-  10. Run LView/ConsoleApplication.exe and have fun!
+ 
+  9. Run LView/ConsoleApplication.exe and have fun!
 
   
 ![Screenshot](https://i.imgur.com/IK9SxKd.png)
